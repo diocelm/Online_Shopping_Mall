@@ -1,0 +1,15 @@
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.csproj.AssemblyReference.cache
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.AssemblyInfoInputs.cache
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.AssemblyInfo.cs
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.csproj.CoreCompileInputs.cache
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\bin\Debug\net6.0\Online_Shopping_Mall.exe
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\bin\Debug\net6.0\Online_Shopping_Mall.deps.json
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\bin\Debug\net6.0\Online_Shopping_Mall.runtimeconfig.json
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\bin\Debug\net6.0\Online_Shopping_Mall.dll
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\bin\Debug\net6.0\Online_Shopping_Mall.pdb
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.dll
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\refint\Online_Shopping_Mall.dll
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.pdb
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\Online_Shopping_Mall.genruntimeconfig.cache
+C:\Users\berdi\OneDrive\Documents\2022-2023 2nd Sem\CSci 151 - Event Driven Programming\Online_Shopping_Mall\Online_Shopping_Mall\Online_Shopping_Mall\obj\Debug\net6.0\ref\Online_Shopping_Mall.dll
